@@ -1,18 +1,21 @@
 ## Tools included:
 
-- SecLists
+- SecLists (Optional)
 - Gobuster
 - Kerbrute
 - Remmina
-- Google Chrome (to manually use chrome debugger)
 - Bopscrk (wordlist generator)
-- Malsploits (a repo jsouliss and I created to script out exploits and malware)
 - rlwrap
+
+- AMSI .NET bypass script
+- Fixed Certify.exe
+
 - Linux-Binary
   - Chisel (x32 and x64)
   - LinEnum
   - LinPEAS
   - Pspy
+  
 - Windows-Binary
   - Mimikatz (x32 and x64)
   - NetCat (x32 and 64)
@@ -23,16 +26,15 @@
   - Powermad
   - PowerView
   - SharpHound
+  - RunasCs
+  
 - Webapp
   - Webshells
   - phpggc
-- ZeroLogon
-  - PoC tester
-  - Exploit script
-  - Password Restore
+  
 - Reverse Engineering
   - ILSpy (.NET rev eng tool)
-- Msfpayload (A dumb script I made cuz I'm lazy)
+
 
 ## Before Running the Script:
 
